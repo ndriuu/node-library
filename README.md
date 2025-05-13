@@ -46,8 +46,8 @@ npm install
 ```env
 APP_PORT=3000
 DB_HOST=localhost
-DB_USER=root
-DB_PASS=yourpassword
+DB_USER=YOUR_USER
+DB_PASS=YOUR_PASS
 DB_PORT=3306
 MYSQL_DB=tes_perpus
 ```
